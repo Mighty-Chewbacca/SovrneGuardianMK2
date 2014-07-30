@@ -39,14 +39,27 @@
 	<Reference Include="System.Core" />
 	<Reference Include="System.Xml.Linq" />
 	<Reference Include="UnityEngine">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	  <HintPath>F:/Editor/Data/Managed/UnityEngine.dll</HintPath>
 	</Reference>
 	<Reference Include="UnityEditor">
-	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	  <HintPath>F:/Editor/Data/Managed/UnityEditor.dll</HintPath>
 	</Reference>
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\TestScript.cs" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\11removed.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\6.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\11.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\3.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\8.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\9.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\0.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\1.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\4.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\10.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\7.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\2.txt" />
+     <None Include="Assets\Art_Assets\OLD_LEVEL_DESIGNS\Levels\5.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
